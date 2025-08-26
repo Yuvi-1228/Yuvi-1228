@@ -1,6 +1,6 @@
 <!-- README for Yuvraj Thapa CHhetri -->
 
-<h1 align="center">Hi 👋, I'm Yuvraj Thapa CHhetri</h1>
+<h1 align="center">Hi 👋, I'm Yuvraj Thapa Chhetri</h1>
 <h3 align="center">Cloud and DevOps Engineer | Certified Cloud Trainer | Freelancer</h3>
 
 ---
