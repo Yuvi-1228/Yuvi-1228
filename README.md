@@ -67,6 +67,8 @@
   <a href="https://www.instagram.com/your-link" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.facebook.com/your-link" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.youtube.com/your-link" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://your-blog-link.com" target="_blank"><img src="https://img.shields.io/badge/Blog-%23000000?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" /></a>
+  <a href="https://your-website-link.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23007ACC?style=for-the-badge&logo=about.me&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
