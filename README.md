@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working as a **Freelance Cloud and DevOps Engineer**  
-- 📚 I’m a **Certified Trainer** for AWS, GCP, Huawei, Oracle Clouds  
+- 📚 I’m a **Certified Trainer** for AWS cloud
 - 🧠 I love to **learn, build, automate and train** on cutting-edge DevOps tools and platforms  
 - ✍️ Tech Blogger | 🎥 YouTuber  
 - 🎮 Gaming, 🏊 Swimming, 📝 Blogging  
