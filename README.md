@@ -1,13 +1,14 @@
 <!-- README for Yuvraj Thapa CHhetri -->
 
 <h1 align="center">Hi 👋, I'm Yuvraj Thapa Chhetri</h1>
-<h3 align="center">Cloud and DevOps Engineer | Certified Cloud Trainer | Freelancer</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS Community Builder | AWS Certified Instruction</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working as a **Freelance Cloud and DevOps Engineer**  
+- 📚 I’m a **AWS Community Builders**
 - 📚 I’m a **Certified Trainer** for AWS cloud
 - 🧠 I love to **learn, build, automate and train** on cutting-edge DevOps tools and platforms  
 - ✍️ Tech Blogger | 🎥 YouTuber  
